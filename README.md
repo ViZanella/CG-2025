@@ -35,7 +35,7 @@ Cada classe tem apenas os métodos relevantes ao seu comportamento, evitando int
 
 O AudioController é uma dependência injetada, permitindo a reutilização e facilitando mudanças sem afetar o restante do código.
 
-Melhorias de Clean Code
+## Melhorias de Clean Code
 
 Eliminação de números mágicos: Constantes foram movidas para config.py.
 
@@ -53,5 +53,7 @@ Separação de responsabilidades: O código foi modularizado, facilitando a manu
 
 ![uml_dvd_game](https://github.com/user-attachments/assets/2a476b49-8f18-4e99-9e42-a1d79df125a3)
 
+
+## Conclusão
 A refatoração aplicou SOLID e Clean Code para melhorar a estrutura e legibilidade do código. A modularização tornou o sistema mais escalável, permitindo a
 adição de novos comportamentos e melhorias futuras com facilidade.
