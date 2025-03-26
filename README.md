@@ -7,3 +7,9 @@ A partir do projeto existente, que exibe um texto se movimentando pela tela no e
 ## Diagramas UML projeto inicial
 
 ![Captura de tela 2025-03-25 184758](https://github.com/user-attachments/assets/7a434a37-e3d4-4310-a48c-94df221baaae)
+
+
+## Diagramas UML projeto final
+
+
+![Captura de tela 2025-03-26 192249](https://github.com/user-attachments/assets/3a7b6a59-d076-4235-b744-a4b5c7a3e848)
