@@ -13,3 +13,4 @@ A partir do projeto existente, que exibe um texto se movimentando pela tela no e
 
 
 ![Captura de tela 2025-03-26 192249](https://github.com/user-attachments/assets/3a7b6a59-d076-4235-b744-a4b5c7a3e848)
+![uml_dvd_game](https://github.com/user-attachments/assets/2a476b49-8f18-4e99-9e42-a1d79df125a3)
